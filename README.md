@@ -5,9 +5,9 @@
 **Кейс №1:** Социальная сеть / Платформа с пользовательским контентом.
 
 **Команда:**
-- Product Owner: Настя
-- Data Scientist / ML Engineer: Артем
-- Data Architect / Software Architect: Влад
+- Product Owner: Савченко Анастасия Сергеевна
+- Data Scientist / ML Engineer: Сапожников Артём Александрович
+- Data Architect / Software Architect: Христофоров Владислав Николаевич
 
 **Дата:** 31.05.2026  
 **Версия:** 1.0
